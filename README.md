@@ -483,6 +483,7 @@ Step-by-step onboarding and best-practice guide for using Claude Cowork on the P
       https://oercollective.caul.edu.au/gen-ai-legal-practice/chapter/best-practices-for-integrating-ai-into-legal-workflows/
 
 Sources
+
 [1] Plans & Pricing | Claude by Anthropic https://claude.com/pricing
 [2] Claude Pricing Explained: Subscription Plans & API Costs https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs
 [3] Pricing - Claude API Docs https://platform.claude.com/docs/en/about-claude/pricing
